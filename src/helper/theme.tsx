@@ -1,0 +1,13 @@
+export const PrimaryColor = '#e6530d';
+export const SecondaryColor = '#8b8a8e';
+export const bgPrimary = {backgroundColor: PrimaryColor};
+export const bgBody = {backgroundColor: '#eff0f4'};
+export const bgWhite = {backgroundColor: 'white'};
+export const colorPrimary = {color: PrimaryColor};
+export const colorSecondary = {color: SecondaryColor};
+export const colorWhite = {color: 'white'};
+export const fontSmall = {fontSize: 12};
+export const fontStrong: {fontWeight: '700'} = {fontWeight: '700'};
+export const flex1 = {flex: 1};
+export const textCenter: {textAlign: 'center'} = {textAlign: 'center'};
+export const alignCenter: {alignItems: 'center'} = {alignItems: 'center'};
